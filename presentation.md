@@ -88,7 +88,7 @@ background-image: url(assets/img/validate.jpg)
 ---
 
 name: success
-class: center, middle
+class: center, middle, inverse
 background-image: url(assets/img/success.jpg)
 
 # Setup for success, not acquisition.
