@@ -19,4 +19,4 @@ But seriously, I'm going to share some insights from my experience building a co
 
 This repo is a slideshow with notes for the presentation above. Feel free to browse and contribute.
 
-You can view the slideshow at http://lukecarbis.github.io/you-wont-believe-what-happened-next/.
+You can view the slideshow at http://lukecarbis.github.io/you-wont-believe-what-happens-next/.
