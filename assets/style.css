@@ -76,6 +76,9 @@ blockquote {
 	background-size: cover !important;
 	background-position: center center !important;
 }
+.remark-slide .remark-slide-content img {
+	max-width: 100%;
+}
 #slideshow .slide .content code {
 	font-size: 0.8em;
 }
@@ -110,6 +113,19 @@ blockquote {
 }
 .inverse-green {
 	background: #00B292;
+}
+
+.stream-1 {
+	background: #252525;
+	color: #eee;
+}
+.stream-2 {
+	background: #373b3f;
+	color: #eee;
+}
+.stream-3 {
+	background: #424242;
+	color: #eee;
 }
 
 .contents li {

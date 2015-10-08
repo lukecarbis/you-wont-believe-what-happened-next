@@ -16,9 +16,9 @@ background-image: url(assets/img/title.jpg)
 ---
 
 name: stream-1
-class: center, middle, inverse
+class: center, middle, stream-1
 
-Stream
+![Stream](assets/img/stream-1.png)
 
 ???
 
@@ -65,9 +65,9 @@ Manage expectations - No takeaways, just a story
 ---
 
 name: stream-2
-class: center, middle, inverse
+class: center, middle, stream-2
 
-Stream 2
+![Stream 2](assets/img/stream-2.png)
 
 ???
 
@@ -128,6 +128,7 @@ Stream 2
 name: japh
 class: center, middle
 
+
 > “To write something honest but also positive, pretend as though you're writing to a close friend, that you're wanting to come and work with you on it, and be excited about it.”
 
 — Japh Thomson
@@ -144,9 +145,9 @@ class: center, middle
 ---
 
 name: stream-3
-class: center, middle, inverse
+class: center, middle, stream-3
 
-Stream 3
+![Stream 3](assets/img/stream-3.png)
 
 ???
 
